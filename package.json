@@ -1,0 +1,26 @@
+{
+  "name": "SibylSystem-Js",
+  "version": "1.0.0",
+  "description": "Node wrapper for the Sibyl System antispam API for telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \" no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnimeKaizoku/SibylSystem-Js"
+  },
+    "keywords": [
+    "sibylsystem",
+    "Antispam"
+  ],
+  "author": "AnimaKaizoku",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnimeKaizoku/SibylSystem-Js/issues"
+  },
+  "homepage": "https://github.com/AnimeKaizoku/SibylSystem-Js#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
